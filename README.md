@@ -1,2 +1,2 @@
 # PyGAF Notebooks
-Jupyter notebooks containing PyGAF examples
+Jupyter notebooks containing PyGAF examples.
